@@ -16,6 +16,7 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
   - [Dracula](https://github.com/dracula/ranger)
   
   ![Screenshot](https://raw.githubusercontent.com/dracula/ranger/master/screenshot.png)
+  
 ## Other tools
 - [highlight](http://www.andre-simon.de/doku/highlight/en/highlight.php): `Syntax highlighter`
 - [rouge](https://github.com/rouge-ruby/rouge) : `Syntax highlighter`
