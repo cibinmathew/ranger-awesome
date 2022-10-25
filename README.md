@@ -42,6 +42,10 @@ Read the [wiki](https://github.com/ranger/ranger/wiki) here
 - [rouge](https://github.com/rouge-ruby/rouge) : `Syntax highlighter`
 - [coderay](https://github.com/rubychan/coderay): `Syntax highlighter`
 
+## Configs
+These are few of the publicly available ranger configurations
+- [ashpex.eu.org](https://ashpex.eu.org/2020/08/ranger-configure/#ranger-icons)
+
 ## Hacks
   - [exit to ranger's last visited directory](https://rotadev.com/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current-directory-super-user/) how to exit the ranger file explorer back to command prompt but keep the current directory
 
