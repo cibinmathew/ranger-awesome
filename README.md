@@ -7,7 +7,7 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
   - [ranger devicons](https://github.com/alexanderjeurissen/ranger_devicons)
 
 ## Themes
-
+  - [Dracula](https://github.com/dracula/ranger)
 
 ## Motivation
 Inspired by the various awesome list collections for various tools.
