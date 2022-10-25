@@ -14,6 +14,8 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
 
 ## Themes
   - [Dracula](https://github.com/dracula/ranger)
+  
+  ![Screenshot](https://raw.githubusercontent.com/dracula/ranger/master/screenshot.png)
 
 ## Hacks
   - [exit to ranger's last visited directory](https://rotadev.com/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current-directory-super-user/) how to exit the ranger file explorer back to command prompt but keep the current directory
