@@ -7,7 +7,7 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
 Read the [wiki](https://github.com/ranger/ranger/wiki) here
 
 ## Plugins
-
+[Plugins](https://github.com/ranger/ranger/wiki/Plugins)  listed on wiki
 - [feedranger](https://github.com/stefandtw/feedranger), feed reader using ranger as a UI
 - [plugin\_directory\_diff](https://github.com/alex8866/eranger/blob/master/ranger/config/plugins/plugin_direcory_diff.py)
 - [ranger-annex](https://github.com/matze/ranger-annex), integrate [git-annex](https://git-annex.branchable.com/) calls into ranger
