@@ -16,6 +16,10 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
   - [Dracula](https://github.com/dracula/ranger)
   
   ![Screenshot](https://raw.githubusercontent.com/dracula/ranger/master/screenshot.png)
+## Other tools
+- [highlight](http://www.andre-simon.de/doku/highlight/en/highlight.php): `Syntax highlighter`
+- [rouge](https://github.com/rouge-ruby/rouge) : `Syntax highlighter`
+- [coderay](https://github.com/rubychan/coderay): `Syntax highlighter`
 
 ## Hacks
   - [exit to ranger's last visited directory](https://rotadev.com/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current-directory-super-user/) how to exit the ranger file explorer back to command prompt but keep the current directory
