@@ -7,8 +7,10 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
 ## Plugins
   - [fzf-marks](https://github.com/laggardkernel/ranger-fzf-marks.git)
   - [ranger devicons](https://github.com/alexanderjeurissen/ranger_devicons)
-  - [zoxide](https://github.com/jchook/ranger-zoxide) zoxide navigation
+  - [ranger-zoxide](https://github.com/jchook/ranger-zoxide) navigation using [zoxide](https://github.com/ajeetdsouza/zoxide)
   - [ranger-tmux](https://github.com/ranger/ranger/wiki/Plugins) Ranger plugin for tmux
+  - [ranger-zjumper](https://github.com/ask1234560/ranger-zjumper) integrates [z](https://github.com/rupa/z) with ranger
+
 
 ## Themes
   - [Dracula](https://github.com/dracula/ranger)
