@@ -4,13 +4,33 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
 
 ![screenshot](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png)
 
-## Plugins
-  - [fzf-marks](https://github.com/laggardkernel/ranger-fzf-marks.git)
-  - [ranger devicons](https://github.com/alexanderjeurissen/ranger_devicons)
-  - [ranger-zoxide](https://github.com/jchook/ranger-zoxide) navigation using [zoxide](https://github.com/ajeetdsouza/zoxide)
-  - [ranger-tmux](https://github.com/ranger/ranger/wiki/Plugins) Ranger plugin for tmux
-  - [ranger-zjumper](https://github.com/ask1234560/ranger-zjumper) integrates [z](https://github.com/rupa/z) with ranger
+Read the [wiki](https://github.com/ranger/ranger/wiki) here
 
+## Plugins
+
+- [feedranger](https://github.com/stefandtw/feedranger), feed reader using ranger as a UI
+- [plugin\_directory\_diff](https://github.com/alex8866/eranger/blob/master/ranger/config/plugins/plugin_direcory_diff.py)
+- [ranger-annex](https://github.com/matze/ranger-annex), integrate [git-annex](https://git-annex.branchable.com/) calls into ranger
+- [ranger-archives](https://github.com/maximtrp/ranger-archives), support for creating and extracting archives
+- [ranger-autojump](https://github.com/fdw/ranger-autojump), [autojump](https://github.com/wting/autojump) integration for ranger
+- [ranger-cmus](https://github.com/maximtrp/ranger-cmus), integration with [cmus](https://cmus.github.io/) audio player
+- [ranger-devicons2](https://github.com/cdump/ranger-devicons2), icons and types (like `ls -F`) in file list
+- [ranger-fzf-marks](https://github.com/laggardkernel/ranger-fzf-marks), bookmark with fuzzy finder fzf
+- [ranger-gitplug](https://github.com/yonghie/ranger-gitplug), `git` command integration
+- [ranger-gpg](https://gitlab.com/Ragnyll/ranger-gpg), encrypt files and directories with `gpg`
+- [ranger-lame](https://github.com/madskjeldgaard/ranger-lame), for mp3 conversion
+- [ranger-mocp](https://github.com/Magicrafter13/ranger-mocp), [MoC](https://moc.daper.net/) audio player integration
+- [ranger-oscyank](https://github.com/laggardkernel/ranger-oscyank), extend internal `yank` command with ANSI OSC 52 sequence support
+- [ranger-sox](https://github.com/madskjeldgaard/ranger-sox), SoX integration for managing, manipulating and converting audio files
+- [ranger-tmux](https://github.com/joouha/ranger_tmux), Tmux integration for ranger
+- [ranger-zjumper](https://github.com/ask1234560/ranger-zjumper), z integration to jump around
+- [ranger-zoxide](https://github.com/jchook/ranger-zoxide), zoxide integration for a smarter `cd` command
+- [ranger\_devicons](https://github.com/alexanderjeurissen/ranger_devicons), devicons plugin (file icon glyphs for ranger)
+- [ranger\_keybord](https://github.com/mrgoodvin/ranger_keybord), support hotkeys for more keyboard layouts
+- [ranger-fzf-filter](https://github.com/MuXiu1997/ranger-fzf-filter), filtering files with [fzf](https://github.com/junegunn/fzf)
+- [ranger-quit\_cd\_wd](https://github.com/JohanChane/ranger-quit_cd_wd), quit ranger and keep the working directory.
+- [ranger_udisk_menu](https://github.com/SL-RU/ranger_udisk_menu) draws menu to choose, mount and unmount drives using udisksctl and ncurses
+- [ranger-most-used-sort](https://github.com/Stock84-dev/ranger-most-used-sort) Ranger plugin that sorts elements by most used order
 
 ## Themes
   - [Dracula](https://github.com/dracula/ranger)
@@ -24,6 +44,7 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
 
 ## Hacks
   - [exit to ranger's last visited directory](https://rotadev.com/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current-directory-super-user/) how to exit the ranger file explorer back to command prompt but keep the current directory
+
 
 ## Motivation
 Inspired by the various awesome list collections for various tools.
