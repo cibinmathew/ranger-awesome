@@ -4,7 +4,7 @@ An [awesome](https://github.com/topics/awesome) collection of ranger plugins & t
 
 ![screenshot](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png)
 
-Read the [wiki](https://github.com/ranger/ranger/wiki) here
+Read the [ranger wiki](https://github.com/ranger/ranger/wiki) here
 
 ## Plugins
 [Plugins](https://github.com/ranger/ranger/wiki/Plugins)  listed on wiki
