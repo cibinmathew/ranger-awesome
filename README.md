@@ -48,7 +48,8 @@ These are few of the publicly available ranger configurations
 
 ## Hacks
   - [exit to ranger's last visited directory](https://rotadev.com/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current-directory-super-user/) how to exit the ranger file explorer back to command prompt but keep the current directory
-
+- [fzf selector to copy files to current directory](https://github.com/seanbreckenridge/dotfiles/blob/master/.config/ranger/commands.py)
+   Prompts a multi-select fzf interface to pick files from the passed directory and copies them to the current directory.
 
 ## Motivation
 Inspired by the various awesome list collections for various tools.
