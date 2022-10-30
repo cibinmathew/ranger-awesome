@@ -38,9 +38,12 @@ Read the [ranger wiki](https://github.com/ranger/ranger/wiki) here
   ![Screenshot](https://raw.githubusercontent.com/dracula/ranger/master/screenshot.png)
   
 ## Other tools
+
+## File preview
 - [highlight](http://www.andre-simon.de/doku/highlight/en/highlight.php): `Syntax highlighter`
 - [rouge](https://github.com/rouge-ruby/rouge) : `Syntax highlighter`
 - [coderay](https://github.com/rubychan/coderay): `Syntax highlighter`
+- [pistol](https://github.com/doronbehar/pistol): `Pluggable File previewer`
 
 ## Configs
 These are few of the publicly available ranger configurations
