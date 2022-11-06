@@ -54,5 +54,8 @@ These are few of the publicly available ranger configurations
 - [fzf selector to copy files to current directory](https://github.com/seanbreckenridge/dotfiles/blob/master/.config/ranger/commands.py)
    Prompts a multi-select fzf interface to pick files from the passed directory and copies them to the current directory. Relevant function: *fzf_copy_from*
 
+## Misc
+Read more on [medium](https://medium.com/@cibin.mathew/awesome-list-for-ranger-file-manager-55a9ed80df5b)
+
 ## Motivation
 Inspired by the various awesome list collections for various tools.
