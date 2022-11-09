@@ -57,5 +57,8 @@ These are few of the publicly available ranger configurations
 ## Misc
 Read more on [medium](https://medium.com/@cibin.mathew/awesome-list-for-ranger-file-manager-55a9ed80df5b)
 
+---
+![cheatsheet](https://github.com/ranger/ranger/blob/master/doc/cheatsheet.svg)
+
 ## Motivation
 Inspired by the various awesome list collections for various tools.
