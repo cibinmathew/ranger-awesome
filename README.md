@@ -53,6 +53,7 @@ These are few of the publicly available ranger configurations
   - [exit to ranger's last visited directory](https://rotadev.com/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current-directory-super-user/) how to exit the ranger file explorer back to command prompt but keep the current directory
 - [fzf selector to copy files to current directory](https://github.com/seanbreckenridge/dotfiles/blob/master/.config/ranger/commands.py)
    Prompts a multi-select fzf interface to pick files from the passed directory and copies them to the current directory. Relevant function: *fzf_copy_from*
+- [How to use Trash-CLI with Ranger](https://codeyarns.com/tech/2014-09-22-how-to-use-trash-cli-with-ranger.html#gsc.tab=0)
 
 ## Misc
 Read more on [medium](https://medium.com/@cibin.mathew/awesome-list-for-ranger-file-manager-55a9ed80df5b)
