@@ -56,7 +56,9 @@ These are few of the publicly available ranger configurations
   - How to use [trash-cli](https://github.com/andreafrancia/trash-cli) with Ranger
     - [how-to-use-trash-cli-with-ranger](https://codeyarns.com/tech/2014-09-22-how-to-use-trash-cli-with-ranger.html#gsc.tab=0) 
     - [How to use trash with ranger file manager](https://forums.linuxmint.com/viewtopic.php?t=262201)
-
+## Integrations
+### Vi/ViM
+- [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim)
 
 ## Misc
 Read more on [medium](https://medium.com/@cibin.mathew/awesome-list-for-ranger-file-manager-55a9ed80df5b)
