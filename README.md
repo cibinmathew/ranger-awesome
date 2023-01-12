@@ -66,5 +66,9 @@ Read more on [medium](https://medium.com/@cibin.mathew/awesome-list-for-ranger-f
 ---
 ![cheatsheet](https://github.com/ranger/ranger/blob/master/doc/cheatsheet.svg)
 
+## Ranger Alternatives
+- [nnn](https://github.com/jarun/nnn)
+- [NeoVim plugins](https://github.com/rockerBOO/awesome-neovim#file-explorer)
+- 
 ## Motivation
 Inspired by the various awesome list collections for various tools.
