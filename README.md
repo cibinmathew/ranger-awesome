@@ -32,6 +32,9 @@ Read the [ranger wiki](https://github.com/ranger/ranger/wiki) here
 - [ranger_udisk_menu](https://github.com/SL-RU/ranger_udisk_menu) draws menu to choose, mount and unmount drives using udisksctl and ncurses
 - [ranger-most-used-sort](https://github.com/Stock84-dev/ranger-most-used-sort) Ranger plugin that sorts elements by most used order
 
+### Plugin manager
+- [ranger-plug](https://github.com/cjbassi/ranger-plug) - Deprecated
+
 ## Themes
   - [Dracula](https://github.com/dracula/ranger)
   
