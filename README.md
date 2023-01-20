@@ -68,7 +68,9 @@ Read more on [medium](https://medium.com/@cibin.mathew/awesome-list-for-ranger-f
 
 ## Ranger Alternatives
 - [nnn](https://github.com/jarun/nnn)
-- [NeoVim plugins](https://github.com/rockerBOO/awesome-neovim#file-explorer)
+- Vim
+  + [vfiler](https://github.com/obaland/vfiler.vim)
+  + [more NeoVim plugins](https://github.com/rockerBOO/awesome-neovim#file-explorer)
 - [lf](https://github.com/gokcehan/lf)
 - [vifm](https://github.com/vifm/vifm)
 
