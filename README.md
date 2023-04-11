@@ -1,6 +1,6 @@
 # ranger-awesome
 
-An [awesome](https://github.com/topics/awesome) collection of ranger plugins & themes for [ranger](https://github.com/ranger/ranger) file manager
+An [awesome](https://github.com/topics/awesome) collection of plugins & themes for [ranger](https://github.com/ranger/ranger) file manager
 
 ![screenshot](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png)
 
